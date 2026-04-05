@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Himanshi Singh
-- 👀 I’m interested in Web Development and Software Development
-- 🌱 I’m currently learning python and react
-- 💞️ I’m looking to collaborate on react projects
+- 👀 I’m interested in Software Development and Cloud solutions
+- 🌱 I have expertise in Python and AWS.
+- 💞️ I’m looking to collaborate on python+AWS projects along with genAI
 - 📫 How to reach me 
 - mail: himanshisingh018@gmail.com
 
